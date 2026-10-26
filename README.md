@@ -20,15 +20,18 @@ Estudio **Computer Science, Data Science & AI**. Me gusta entender los sistemas 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/raulplz/FrostLayer"><b>❄ FrostLayer</b></a><br>
-      <sub>Mi estética Frost para Omarchy, empaquetada en módulos reversibles: tema, Hyprland, GTK y pantalla de arranque. Se instala con una línea.</sub>
-      <pre>curl -fsSL https://raw.githubusercontent.com/raulplz/FrostLayer/main/install.sh | bash</pre>
+      <sub>Mi estética Frost para Omarchy, empaquetada en módulos reversibles: tema, Hyprland, GTK y pantalla de arranque. Se instala con una línea y se deshace igual de fácil.</sub>
     </td>
     <td width="50%" valign="top">
-      <b>Ø ZeroAgents</b> <sub><code>en desarrollo</code></sub><br>
-      <sub>Monitor de agentes de IA en el terminal: qué modelo y esfuerzo usa cada sesión de Claude Code, cuánto consume y cuál está esperando una respuesta mía.</sub>
+      <b>Ø ZeroAgents</b><br>
+      <sub>Monitor de agentes de IA en el terminal: modelo, esfuerzo y consumo de cada sesión de Claude Code, y cuál espera una respuesta mía. <i>En desarrollo.</i></sub>
     </td>
   </tr>
 </table>
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/raulplz/FrostLayer/main/install.sh | bash
+```
 
 ### Con qué trabajo
 
