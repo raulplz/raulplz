@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+  <radialGradient id="bg" cx="50%" cy="45%" r="70%">
+    <stop offset="0" stop-color="#132236"/><stop offset="0.55" stop-color="#0b111a"/><stop offset="1" stop-color="#080b10"/>
+  </radialGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="16"/></filter>
+</defs>
+<rect width="512" height="512" fill="url(#bg)"/>
+<circle cx="256" cy="256" r="214" fill="none" stroke="#4da3ff" stroke-opacity="0.18" stroke-width="2"/>
+<g transform="translate(256,256) skewX(-10) translate(-256,-256)">
+  <g fill="none" stroke="#a8dcff" stroke-width="18" stroke-linejoin="miter" stroke-linecap="butt" opacity="0.7" filter="url(#glow)"><path d="M213.0,136.0 L299.0,136.0 L341.0,178.0 L341.0,334.0 L299.0,376.0 L213.0,376.0 L171.0,334.0 L171.0,178.0 Z"/><path d="M133.0,414.0 L379.0,98.0"/></g>
+  <g fill="none" stroke="#a8dcff" stroke-width="18" stroke-linejoin="miter" stroke-linecap="butt"><path d="M213.0,136.0 L299.0,136.0 L341.0,178.0 L341.0,334.0 L299.0,376.0 L213.0,376.0 L171.0,334.0 L171.0,178.0 Z"/><path d="M133.0,414.0 L379.0,98.0"/></g>
+</g>
+</svg>
