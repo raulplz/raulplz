@@ -23,8 +23,8 @@ Estudio **Computer Science, Data Science & AI**. Me gusta entender los sistemas 
       <sub>Mi estética Frost para Omarchy, empaquetada en módulos reversibles: tema, Hyprland, GTK y pantalla de arranque. Se instala con una línea y se deshace igual de fácil.</sub>
     </td>
     <td width="50%" valign="top">
-      <b>Ø ZeroAgents</b><br>
-      <sub>Monitor de agentes de IA en el terminal: modelo, esfuerzo y consumo de cada sesión de Claude Code, y cuál espera una respuesta mía. <i>En desarrollo.</i></sub>
+      <a href="https://github.com/raulplz/ZeroAgents"><b>Ø ZeroAgents</b></a><br>
+      <sub>Panel de agentes de IA en el terminal: vigila cada sesión de Claude Code y, a partir de un prompt, monta un equipo de agentes con roles, modelos y esfuerzos propios, liderado por un Product Owner. <i>En desarrollo.</i></sub>
     </td>
   </tr>
 </table>
