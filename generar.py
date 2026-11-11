@@ -1,6 +1,6 @@
 """Genera los gráficos del perfil: assets/avatar.svg, assets/banner.svg.
 
-Misma familia que el logo ZERØ de FrostLayer: trazos rectos, esquinas
+Misma familia que el logo ZERØ de ZerØLayer: trazos rectos, esquinas
 cortadas, inclinación y brillo helado. Sin fuentes externas en el logo.
 Uso: python3 generar.py && rsvg-convert -w 1024 assets/avatar.svg -o assets/avatar.png
 """
