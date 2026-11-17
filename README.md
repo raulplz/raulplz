@@ -24,8 +24,15 @@ Estudio **Computer Science, Data Science & AI**. Me gusta entender los sistemas 
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/raulplz/ZeroAgents"><b>Ø ZeroAgents</b></a><br>
-      <sub>Panel de agentes de IA en el terminal: vigila cada sesión de Claude Code y, a partir de un prompt, monta un equipo de agentes con roles, modelos y esfuerzos propios, liderado por un Product Owner. <i>En desarrollo.</i></sub>
+      <sub>Panel de agentes de IA, en terminal o en una app de escritorio en Rust (Tauri 2 + Leptos) sobre los mismos datos: vigila cada sesión de Claude Code y, a partir de un prompt, monta un equipo de agentes con roles, modelos y esfuerzos propios, liderado por un Product Owner. <i>En desarrollo.</i></sub>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/raulplz/ZeroStudy"><b>Ø ZeroStudy</b></a><br>
+      <sub>App de estudio en Rust (Tauri 2 + Leptos): repetición espaciada, atlas de conceptos y plazos. También funciona como <a href="https://raulplz.github.io/ZeroStudy/">PWA</a> en el navegador.</sub>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -45,6 +52,7 @@ curl -fsSL https://raw.githubusercontent.com/raulplz/ZeroLayer/main/install.sh |
   <br>
   <img src="https://img.shields.io/badge/Arch_Linux-0e1724?style=flat-square&logo=archlinux&logoColor=a8dcff" alt="Arch Linux">
   <img src="https://img.shields.io/badge/Hyprland-0e1724?style=flat-square&logo=hyprland&logoColor=a8dcff" alt="Hyprland">
+  <img src="https://img.shields.io/badge/Rust-0e1724?style=flat-square&logo=rust&logoColor=a8dcff" alt="Rust">
   <img src="https://img.shields.io/badge/Bash-0e1724?style=flat-square&logo=gnubash&logoColor=a8dcff" alt="Bash">
   <img src="https://img.shields.io/badge/Lua-0e1724?style=flat-square&logo=lua&logoColor=a8dcff" alt="Lua">
   <img src="https://img.shields.io/badge/Neovim-0e1724?style=flat-square&logo=neovim&logoColor=a8dcff" alt="Neovim">
